@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=CDD1FF&height=300&section=header&text=Hyunmin'sGithub&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=CDD1FF&height=300&section=header&text=Hyunmin's Github&fontSize=90&fontColor=FFFFFF)
 
 [![Hyunmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunmin0317&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Hyunmin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmin0317&layout=compact&hide=tcl,powershell&langs_count=8&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)

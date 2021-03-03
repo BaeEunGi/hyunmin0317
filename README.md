@@ -5,7 +5,7 @@
 </p>
 
 # Hyunmin's Github
-[![Instagram](https://img.shields.io/badge/nstagram-E4405F?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunmin_0317/)](https://www.instagram.com/hyunmin_0317/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunmin_0317/)](https://www.instagram.com/hyunmin_0317/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=round-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100031649032539)](https://www.facebook.com/profile.php?id=100031649032539)
 
 ![Hyunmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunmin0317&show_icons=true&title_color=091C57&icon_color=0860A8&bg_color=91A8D2&text_color=FFFFFF)

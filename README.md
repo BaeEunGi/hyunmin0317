@@ -31,4 +31,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=CSS3&logoColor=white"/>
+    
+<p align="center">
+<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=round-square&logo=Google Cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=round-square&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/aws-232F3E?style=round-square&logo=amazon-aws&logoColor=white"/>

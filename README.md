@@ -13,12 +13,12 @@
 
 ## :computer: Carrer
 
-|       Date        |          Contents           |  Organization   |
-| :---------------: | :-------------------------: | :-------------: |
-|     2019.03 ~     | Computer Science :computer: |   상명대학교    |
-| 2020.03 ~ 2020.12 |      Like Lion :lion:       | 멋쟁이사자처럼  |
-|     2021.03 ~     |  LOOKIE :four_leaf_clover:  | SK 행복나눔재단 |
-|     2021.03 ~     |  INYRO :desktop_computer:   |   상명대학교    |
+|       Date        |     Contents     |        Organization         |
+| :---------------: | :--------------: | :-------------------------: |
+|     2019.03 ~     | Computer Science |      상명대학교 :deer:      |
+| 2020.03 ~ 2020.12 |    Like Lion     |    멋쟁이사자처럼 :lion:    |
+|     2021.03 ~     |      LOOKIE      | SK 행복나눔재단 :butterfly: |
+|     2021.03 ~     |      INYRO       |      상명대학교 :deer:      |
 
 ## :star: GitHub Stats
 

@@ -11,9 +11,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=round-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100031649032539)](https://www.facebook.com/profile.php?id=100031649032539)
 [![Github](https://img.shields.io/badge/Github-181717?style=round-square&logo=Github&logoColor=white&link=https://github.com/hyunmin0317)](https://github.com/hyunmin0317)
 
-* ### Carrer
-
----
+* ## Carrer
 
 |       Date        |     Contents     |  Organization   |
 | :---------------: | :--------------: | :-------------: |
@@ -22,21 +20,15 @@
 |     2021.03 ~     |      LOOKIE      | SK 행복나눔재단 |
 |     2021.03 ~     |      INYRO       |   상명대학교    |
 
-* ### GitHub Stats
-
----
+* ## GitHub Stats
 
 ![Hyunmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunmin0317&show_icons=true&title_color=091C57&icon_color=0860A8&bg_color=91A8D2&text_color=FFFFFF)
 
-* ### Used Languages
-
----
+* ## Used Languages
 
 ![Hyunmin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmin0317&layout=compact&hide=tcl,powershell,CSS&langs_count=9&bg_color=91A8D2&title_color=091C57&text_color=FFFFFF)
 
-* ### Ongoing Study
-
----
+* ## Ongoing Study
 
 |         Study         |                 Contents                  | Meeting Shedule |
 | :-------------------: | :---------------------------------------: | :-------------: |

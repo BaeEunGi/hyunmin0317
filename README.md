@@ -34,7 +34,7 @@
 | :-------------------: | :---------------------------------------: | :-------------: |
 |  DeepLearning Study   | 'Do it! 딥러닝 입문'을 통한 딥러닝 스터디 | 토요일 오후 1시 |
 |     OpenCv Study      |   'pyimagesearch'를 통한 OpenCv 스터디    | 금요일 오후 2시 |
-| Lookie Frontend Study |   'Fast campus'를 통한 Frontend 스터디    | 수요일 오후 3시 |
+| Lookie Frontend Study |   'Fast campus'를 통한 Frontend 스터디    | 수요일 오후 1시 |
 
 <h1 align="center"> 🛠 Tech Stack 🛠</h1>
 

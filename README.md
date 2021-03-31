@@ -6,6 +6,7 @@
 
 
 
+
 # Hyunmin's Github
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunmin_0317/)](https://www.instagram.com/hyunmin_0317/)
@@ -31,11 +32,11 @@
 
 ## :book: Ongoing Study
 
-|         Study         |                 Contents                  | Meeting Shedule |     Date     |
-| :-------------------: | :---------------------------------------: | :-------------: | :----------: |
-|  DeepLearning Study   | 'Do it! 딥러닝 입문'을 통한 딥러닝 스터디 | 토요일 오후 1시 | 2021.03.08 ~ |
-|     OpenCv Study      |   'pyimagesearch'를 통한 OpenCv 스터디    | 금요일 오후 2시 | 2021.03.18 ~ |
-| Lookie Frontend Study |   'Fast campus'를 통한 Frontend 스터디    | 수요일 오후 3시 | 2021.03.31 ~ |
+|                            Study                             |                 Contents                  | Meeting Shedule |     Date     |
+| :----------------------------------------------------------: | :---------------------------------------: | :-------------: | :----------: |
+| [DeepLearning Study](https://github.com/hyunmin0317/DeepLearning_Study) | 'Do it! 딥러닝 입문'을 통한 딥러닝 스터디 | 토요일 오후 1시 | 2021.03.08 ~ |
+| [OpenCv Study](https://github.com/hyunmin0317/OpenCV_Study)  |   'pyimagesearch'를 통한 OpenCv 스터디    | 금요일 오후 2시 | 2021.03.18 ~ |
+| [Lookie Frontend Study](https://github.com/hyunmin0317/LOOKIE_FRONT_2021) |   'Fast campus'를 통한 Frontend 스터디    | 수요일 오후 3시 | 2021.03.31 ~ |
 
 <h1 align="center"> 🛠 Tech Stack 🛠</h1>
 
@@ -49,6 +50,7 @@
 
 
 
+
 **<p align="center"> Techs that I've used at least once </p>**
 
 <p align="center">
@@ -57,6 +59,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=CSS3&logoColor=white"/>
+
 
 
 

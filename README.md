@@ -5,6 +5,7 @@
 </p>
 
 
+
 # Hyunmin's Github
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunmin_0317/)](https://www.instagram.com/hyunmin_0317/)
@@ -30,11 +31,11 @@
 
 ## :book: Ongoing Study
 
-|         Study         |                 Contents                  | Meeting Shedule |
-| :-------------------: | :---------------------------------------: | :-------------: |
-|  DeepLearning Study   | 'Do it! 딥러닝 입문'을 통한 딥러닝 스터디 | 토요일 오후 1시 |
-|     OpenCv Study      |   'pyimagesearch'를 통한 OpenCv 스터디    | 금요일 오후 2시 |
-| Lookie Frontend Study |   'Fast campus'를 통한 Frontend 스터디    | 수요일 오후 1시 |
+|         Study         |                 Contents                  | Meeting Shedule |     Date     |
+| :-------------------: | :---------------------------------------: | :-------------: | :----------: |
+|  DeepLearning Study   | 'Do it! 딥러닝 입문'을 통한 딥러닝 스터디 | 토요일 오후 1시 | 2021.03.08 ~ |
+|     OpenCv Study      |   'pyimagesearch'를 통한 OpenCv 스터디    | 금요일 오후 2시 | 2021.03.18 ~ |
+| Lookie Frontend Study |   'Fast campus'를 통한 Frontend 스터디    | 수요일 오후 3시 | 2021.03.31 ~ |
 
 <h1 align="center"> 🛠 Tech Stack 🛠</h1>
 
@@ -47,6 +48,7 @@
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=round-square&logo=Kotlin&logoColor=white"/>
 
 
+
 **<p align="center"> Techs that I've used at least once </p>**
 
 <p align="center">
@@ -57,8 +59,10 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=CSS3&logoColor=white"/>
 
 
+
 <p align="center">
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=round-square&logo=elasticsearch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=round-square&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=round-square&logo=google-cloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=amazon-aws&logoColor=white"/>
+

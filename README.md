@@ -7,6 +7,7 @@
 
 
 
+
 # Hyunmin's Github
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunmin_0317/)](https://www.instagram.com/hyunmin_0317/)
@@ -35,8 +36,17 @@
 |                            Study                             |                 Contents                  | Meeting Shedule |     Date     |
 | :----------------------------------------------------------: | :---------------------------------------: | :-------------: | :----------: |
 | [DeepLearning Study](https://github.com/hyunmin0317/DeepLearning_Study) | 'Do it! 딥러닝 입문'을 통한 딥러닝 스터디 | 토요일 오후 1시 | 2021.03.08 ~ |
-| [OpenCv Study](https://github.com/hyunmin0317/OpenCV_Study)  |   'pyimagesearch'를 통한 OpenCv 스터디    | 금요일 오후 2시 | 2021.03.18 ~ |
+| [OpenCV Study](https://github.com/hyunmin0317/OpenCV_Study)  |   'pyimagesearch'를 통한 OpenCv 스터디    | 금요일 오후 2시 | 2021.03.18 ~ |
 | [Lookie Frontend Study](https://github.com/hyunmin0317/LOOKIE_FRONT_2021) |   'Fast campus'를 통한 Frontend 스터디    | 수요일 오후 3시 | 2021.03.31 ~ |
+
+##  :desktop_computer: Ongoing Project
+
+|           Project            |                   Contents                   |          Subject          |     Date     |
+| :--------------------------: | :------------------------------------------: | :-----------------------: | :----------: |
+|     DeepLearning Project     |       21학년도 1학기 심층학습 프로젝트       |       Undetermined        | 2021.03.29 ~ |
+| Software Engineering Project |     21학년 1학기 소프트웨어공학 프로젝트     | 캠핑장 예약 관리 프로그램 | 2021.04.01 ~ |
+|    ElasticSearch Project     | 엘라스틱 엔지니어 트레이닝 프로그램 프로젝트 |       Undetermined        | 2021.04.03 ~ |
+|   Lookie Frontend Project    |           루키 프론트엔드 프로젝트           |       Undetermined        | Undetermined |
 
 <h1 align="center"> 🛠 Tech Stack 🛠</h1>
 
@@ -48,9 +58,6 @@
 <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=round-square&logo=Kotlin&logoColor=white"/>
 
-
-
-
 **<p align="center"> Techs that I've used at least once </p>**
 
 <p align="center">
@@ -59,9 +66,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=CSS3&logoColor=white"/>
-
-
-
 
 <p align="center">
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=round-square&logo=elasticsearch&logoColor=white"/>

@@ -7,6 +7,7 @@
 
 
 
+
 # Hyunmin's Github
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunmin_0317/)](https://www.instagram.com/hyunmin_0317/)
@@ -36,22 +37,22 @@
 
 ##  :computer: Ongoing Project
 
-|           Project            |                   Contents                   |          Subject          |     Date     |
-| :--------------------------: | :------------------------------------------: | :-----------------------: | :----------: |
-|     DeepLearning Project     |       21학년도 1학기 심층학습 프로젝트       |   거북목 예방 프로그램    | 2021.03.29 ~ |
-| Software Engineering Project |     21학년 1학기 소프트웨어공학 프로젝트     | 캠핑장 예약 관리 프로그램 | 2021.04.01 ~ |
-|    ElasticSearch Project     | 엘라스틱 엔지니어 트레이닝 프로그램 프로젝트 |       Undetermined        | 2021.04.03 ~ |
-|   Lookie Frontend Project    |           루키 프론트엔드 프로젝트           |       Undetermined        | Undetermined |
+|                           Project                            |                   Contents                   |          Subject          |     Date     |
+| :----------------------------------------------------------: | :------------------------------------------: | :-----------------------: | :----------: |
+|                     DeepLearning Project                     |       21학년도 1학기 심층학습 프로젝트       |   거북목 예방 프로그램    | 2021.03.29 ~ |
+| [SoftwareEngineering_Project](https://github.com/hyunmin0317/SoftwareEngineering_Project) |     21학년 1학기 소프트웨어공학 프로젝트     | 캠핑장 예약 관리 프로그램 | 2021.04.01 ~ |
+|                    ElasticSearch Project                     | 엘라스틱 엔지니어 트레이닝 프로그램 프로젝트 |       Undetermined        | 2021.04.03 ~ |
+|                   Lookie Frontend Project                    |           루키 프론트엔드 프로젝트           |       Undetermined        | Undetermined |
 
 ## :blue_book: Programming Study
 
-|                            Study                             |         Contents         |            Date             |
-| :----------------------------------------------------------: | :----------------------: | :-------------------------: |
-| [PythonProgramming](https://github.com/hyunmin0317/PythonProgramming) |    파이썬 프로그래밍     |        2019년 1학기         |
-| [C_Programming](https://github.com/hyunmin0317/C_Programming) |       C 프로그래밍       | 2019년 2학기 ~ 2020년 1학기 |
-| [JavaProgramming](https://github.com/hyunmin0317/JavaProgramming) |     자바 프로그래밍      |        2020년 2학기         |
-| [KotlinProgramming](https://github.com/hyunmin0317/KotlinProgramming) |    코틀린 프로그래밍     |        2021.01.04 ~         |
-| [AndroidProgramming](https://github.com/hyunmin0317/AndroidProgramming) | 안드로이드 앱 프로그래밍 |        2021.02.21 ~         |
+|                            Study                             |                           Language                           |         Contents         |            Date             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------: | :-------------------------: |
+| [PythonProgramming](https://github.com/hyunmin0317/PythonProgramming) | <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/> |    파이썬 프로그래밍     |        2019년 1학기         |
+| [C_Programming](https://github.com/hyunmin0317/C_Programming) | <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/> |       C 프로그래밍       | 2019년 2학기 ~ 2020년 1학기 |
+| [JavaProgramming](https://github.com/hyunmin0317/JavaProgramming) | <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white"/> |     자바 프로그래밍      |        2020년 2학기         |
+| [KotlinProgramming](https://github.com/hyunmin0317/KotlinProgramming) | <img src="https://img.shields.io/badge/Kotlin-0095D5?style=round-square&logo=Kotlin&logoColor=white"/> |    코틀린 프로그래밍     |        2021.01.04 ~         |
+| [AndroidProgramming](https://github.com/hyunmin0317/AndroidProgramming) | <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=round-square&logo=Kotlin&logoColor=white"/> | 안드로이드 앱 프로그래밍 |        2021.02.21 ~         |
 
 ## :desktop_computer: Used Languages
 

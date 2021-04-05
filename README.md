@@ -4,6 +4,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/hyunmin0317?style=social"> 
 </p>
 
+
 # Hyunmin's Github
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunmin_0317/)](https://www.instagram.com/hyunmin_0317/)
@@ -39,7 +40,7 @@
 
 |           Project            |                   Contents                   |          Subject          |     Date     |
 | :--------------------------: | :------------------------------------------: | :-----------------------: | :----------: |
-|     DeepLearning Project     |       21학년도 1학기 심층학습 프로젝트       |       Undetermined        | 2021.03.29 ~ |
+|     DeepLearning Project     |       21학년도 1학기 심층학습 프로젝트       |   거북목 예방 프로그램    | 2021.03.29 ~ |
 | Software Engineering Project |     21학년 1학기 소프트웨어공학 프로젝트     | 캠핑장 예약 관리 프로그램 | 2021.04.01 ~ |
 |    ElasticSearch Project     | 엘라스틱 엔지니어 트레이닝 프로그램 프로젝트 |       Undetermined        | 2021.04.03 ~ |
 |   Lookie Frontend Project    |           루키 프론트엔드 프로젝트           |       Undetermined        | Undetermined |
@@ -47,12 +48,14 @@
 ## :hammer_and_wrench: Tech Stack
 
 * ### What I can use well
+
   <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=round-square&logo=Kotlin&logoColor=white"/>
 
 * ### Techs that I've used at least once
+
   <img src="https://img.shields.io/badge/Django-092E20?style=round-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white"/> 

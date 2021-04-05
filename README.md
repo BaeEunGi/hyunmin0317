@@ -6,13 +6,14 @@
 
 
 
+
 # Hyunmin's Github
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunmin_0317/)](https://www.instagram.com/hyunmin_0317/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=round-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100031649032539)](https://www.facebook.com/profile.php?id=100031649032539)
 [![Github](https://img.shields.io/badge/Github-181717?style=round-square&logo=Github&logoColor=white&link=https://github.com/hyunmin0317)](https://github.com/hyunmin0317)
 
-## :computer: Carrer
+## :trophy: Career
 
 |       Date        |     Contents     |        Organization         |
 | :---------------: | :--------------: | :-------------------------: |
@@ -25,10 +26,6 @@
 
 ![Hyunmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunmin0317&show_icons=true)
 
-## :blue_book: Used Languages
-
-![Hyunmin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmin0317&layout=compact&hide=tcl,powershell,CSS&langs_count=9)
-
 ## :book: Ongoing Study
 
 |                            Study                             |                 Contents                  | Meeting Shedule |     Date     |
@@ -37,7 +34,7 @@
 | [OpenCV Study](https://github.com/hyunmin0317/OpenCV_Study)  |   'pyimagesearch'를 통한 OpenCv 스터디    | 금요일 오후 2시 | 2021.03.18 ~ |
 | [Lookie Frontend Study](https://github.com/hyunmin0317/LOOKIE_FRONT_2021) |   'Fast campus'를 통한 Frontend 스터디    | 수요일 오후 3시 | 2021.03.31 ~ |
 
-##  :desktop_computer: Ongoing Project
+##  :computer: Ongoing Project
 
 |           Project            |                   Contents                   |          Subject          |     Date     |
 | :--------------------------: | :------------------------------------------: | :-----------------------: | :----------: |
@@ -45,6 +42,20 @@
 | Software Engineering Project |     21학년 1학기 소프트웨어공학 프로젝트     | 캠핑장 예약 관리 프로그램 | 2021.04.01 ~ |
 |    ElasticSearch Project     | 엘라스틱 엔지니어 트레이닝 프로그램 프로젝트 |       Undetermined        | 2021.04.03 ~ |
 |   Lookie Frontend Project    |           루키 프론트엔드 프로젝트           |       Undetermined        | Undetermined |
+
+## :blue_book: Programming Study
+
+|                            Study                             |         Contents         |            Date             |
+| :----------------------------------------------------------: | :----------------------: | :-------------------------: |
+| [PythonProgramming](https://github.com/hyunmin0317/PythonProgramming) |    파이썬 프로그래밍     |        2019년 1학기         |
+| [C_Programming](https://github.com/hyunmin0317/C_Programming) |       C 프로그래밍       | 2019년 2학기 ~ 2020년 1학기 |
+| [JavaProgramming](https://github.com/hyunmin0317/JavaProgramming) |     자바 프로그래밍      |        2020년 2학기         |
+| [KotlinProgramming](https://github.com/hyunmin0317/KotlinProgramming) |    코틀린 프로그래밍     |        2021.01.04 ~         |
+| [AndroidProgramming](https://github.com/hyunmin0317/AndroidProgramming) | 안드로이드 앱 프로그래밍 |        2021.02.21 ~         |
+
+## :desktop_computer: Used Languages
+
+![Hyunmin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmin0317&layout=compact&hide=tcl,powershell,CSS&langs_count=9)
 
 ## :hammer_and_wrench: Tech Stack
 

@@ -4,6 +4,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/hyunmin0317?style=social"> 
 </p>
 
+
 # Hyunmin's Github
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunmin_0317/)](https://www.instagram.com/hyunmin_0317/)
@@ -33,12 +34,12 @@
 
 ##  :computer: Ongoing Project
 
-|                           Project                            |                   Contents                   |          Subject          |     Date     |
-| :----------------------------------------------------------: | :------------------------------------------: | :-----------------------: | :----------: |
-| [Ninja_Turtle](https://github.com/hyunmin0317/Ninja_Turtle)  | 2021년 1학기 심층학습 프로젝트 (닌자거북이)  |   거북목 예방 프로그램    | 2021.03.29 ~ |
-| [SoftwareEngineering_Project](https://github.com/hyunmin0317/SoftwareEngineering_Project) |  2021년 1학기 소프트웨어공학 프로젝트 (3조)  | 캠핑장 예약 관리 프로그램 | 2021.04.01 ~ |
-|                             HIP                              | 엘라스틱 엔지니어 트레이닝 팀 프로젝트 (2) | 데이트 코스 추천 프로그램 | 2021.04.03 ~ |
-|                   Lookie Frontend Project                    |           루키 프론트엔드 프로젝트           |       Undetermined        | Undetermined |
+|                           Project                            |                    Contents                    |          Subject          |     Date     |
+| :----------------------------------------------------------: | :--------------------------------------------: | :-----------------------: | :----------: |
+| [Ninja_Turtle](https://github.com/hyunmin0317/Ninja_Turtle)  |  2021년 1학기 심층학습 프로젝트 (닌자거북이)   |   거북목 예방 프로그램    | 2021.03.29 ~ |
+| [SoftwareEngineering_Project](https://github.com/hyunmin0317/SoftwareEngineering_Project) |   2021년 1학기 소프트웨어공학 프로젝트 (3조)   | 캠핑장 예약 관리 프로그램 | 2021.04.01 ~ |
+|                             HIP                              | 엘라스틱 엔지니어 트레이닝 팀 프로젝트 (TEAM2) | 데이트 코스 추천 프로그램 | 2021.04.03 ~ |
+|                   Lookie Frontend Project                    |            루키 프론트엔드 프로젝트            |       Undetermined        | Undetermined |
 
 ## :blue_book: Programming Study
 

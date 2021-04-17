@@ -6,6 +6,7 @@
 
 
 
+
 # Hyunmin's Github
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunmin_0317/)](https://www.instagram.com/hyunmin_0317/)
@@ -54,7 +55,7 @@
 
 ## :desktop_computer: Used Languages
 
-![Hyunmin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmin0317&layout=compact&hide=jupyter notebook, tcl,powershell,CSS&langs_count=10)
+![Hyunmin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmin0317&layout=compact&hide=jupyternotebook, tcl,powershell,CSS&langs_count=10)
 
 ## :hammer_and_wrench: Tech Stack
 

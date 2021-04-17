@@ -55,7 +55,7 @@
 
 ## :desktop_computer: Used Languages
 
-![Hyunmin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmin0317&layout=compact&hide=jupyternotebook, tcl,powershell,CSS&langs_count=10)
+![Hyunmin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmin0317&layout=compact&hide=jupyter notebook,tcl,powershell,CSS&langs_count=10)
 
 ## :hammer_and_wrench: Tech Stack
 

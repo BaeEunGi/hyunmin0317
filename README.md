@@ -4,9 +4,6 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/hyunmin0317?style=social"> 
 </p>
 
-
-
-
 # Hyunmin's Github
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunmin_0317/)](https://www.instagram.com/hyunmin_0317/)
